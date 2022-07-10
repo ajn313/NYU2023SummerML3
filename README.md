@@ -1,5 +1,5 @@
 ## Day 1 Intro to ML & Matrices
-- [Slides](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/Day%20One.pdf)
+- [Slides](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/day1.pdf)
 - [Basics of Python Lab](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/demo_python_basics.ipynb)
 - [Basics of Vectors and Matrices Lab](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/demo_vectors_matrices.ipynb)
 
