@@ -1,3 +1,6 @@
+## icebreaking dataset
+https://docs.google.com/spreadsheets/d/1d3WkAv1S3lgwY3PbJs0ogQoXgNAFYHw-6RPGM0E9IrU/edit?usp=sharing
+
 ## Day 1 Intro to ML & Matrices
 - [Slides](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/day1.pdf)
 - [Basics of Python Lab](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/demo_python_basics.ipynb)
