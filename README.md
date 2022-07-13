@@ -1,3 +1,6 @@
+## Google drive folder for your presentation
+https://drive.google.com/drive/folders/1U20BV6naNVNvoSvoKFAXGdMf3CoV5BQ2
+
 ## Google sheet for Midproject Group Registration
 https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51qXM/edit?usp=sharing
 
