@@ -1,3 +1,6 @@
+## Discord Server 
+https://discord.gg/KrsRaQjB
+
 ## Google drive folder for your presentation
 https://drive.google.com/drive/folders/1U20BV6naNVNvoSvoKFAXGdMf3CoV5BQ2
 
