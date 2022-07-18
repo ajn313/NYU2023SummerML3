@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1d3WkAv1S3lgwY3PbJs0ogQoXgNAFYHw-6RPGM0E9
 ## Day 6 Neural Networks
  - [Slides](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day6/Day_6__Neural_Networks.pdf)
  - [demo_tf_keras](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day6/demo_tf_keras_basics.ipynb)
- - [fish_mkt_sol](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day6/lab_mlp_fish_market_keras_ipynb_v2.ipynb)
+ - [fish_mkt](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day6/lab_mlp_fish_market_keras.ipynb)
 
 ## Day 7 Convolutional Neural Networks
  - [Slides](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day7/Day%207%20Convolutional%20Neural%20Networks_v2.pdf)
