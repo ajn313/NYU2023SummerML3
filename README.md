@@ -3,6 +3,9 @@
 ## Pre-Program Survey:
 https://docs.google.com/forms/d/e/1FAIpQLSezGqs9l9h1Cx0BBia5raFvQWgCHRbGemvAaG0JJB-BK4h4rg/viewform  
 
+## Discord Server:
+https://discord.gg/eUSna4Zc
+
 ## Icebreaker dataset: 
 [Spreadsheet Link](https://docs.google.com/spreadsheets/d/1eVDh2Gc6yl7xzT8ddHewFAudH8d60DdClbpLNKNYI2s/edit?usp=sharing)
 
