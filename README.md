@@ -1,23 +1,5 @@
-## Final Presentation
-https://drive.google.com/drive/folders/1GjlAT6jpgLHNnMktg7NQvjghR8OzdPAM?usp=sharing
-
-## Post-program Survey
-https://docs.google.com/forms/d/e/1FAIpQLSd-SnqP-LE1fPL2hnRez-_heCMz138ue3mCA1tSvtWN_TM8_w/viewform
-
-## Beach Themed Party RSVP Link:
-https://forms.gle/g2frYaJjJkFhtmC96
-
-## Discord Server 
-https://discord.gg/4RN3tduA
-
-## Google drive folder for your presentation
-https://drive.google.com/drive/folders/1U20BV6naNVNvoSvoKFAXGdMf3CoV5BQ2
-
-## Google sheet for Midproject Group Registration
-https://docs.google.com/spreadsheets/d/1YfWuw4guXyeR3sR1Q0a2GdLiMiEhYKCx8hdDji51qXM/edit?usp=sharing
-
 ## icebreaking dataset
-https://docs.google.com/spreadsheets/d/1d3WkAv1S3lgwY3PbJs0ogQoXgNAFYHw-6RPGM0E9IrU/edit?usp=sharing
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1eVDh2Gc6yl7xzT8ddHewFAudH8d60DdClbpLNKNYI2s/edit?usp=sharing)
 
 ## Day 1 Intro to ML & Matrices
 - [Slides](https://github.com/ajn313/NYU2022SummerML2/blob/main/Day1/day1.pdf)
