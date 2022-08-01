@@ -12,7 +12,7 @@
 - [demo_multilinear](https://github.com/ajn313/NYU2022SummerML/blob/main/Day2/demo_multilinear.ipynb)
 - [demo_plot](https://github.com/ajn313/NYU2022SummerML/blob/main/Day2/demo_plot.ipynb)
 - [demo_icebreaker_movie](https://github.com/ajn313/NYU2022SummerML/blob/main/Day2/IceBreaker_movie_demo.ipynb)
-- [demo_boston_housing_one_variable.ipynb](https://github.com/ajn313/NYU2022SummerML/blob/main/Day2/demo_boston_housing_one_variable.ipynb)
+- [demo_boston_housing_one_variable.ipynb](https://github.com/ajn313/NYU2022SummerML/blob/main/Day2/Boston_Housing_One_Variable.ipynb)
 - [lab_robot_arm](https://github.com/ajn313/NYU2022SummerML/blob/main/Day2/lab_robot_arm.ipynb)
 
 ## Day 3 Overfitting and Regularization
