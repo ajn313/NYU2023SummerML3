@@ -1,6 +1,6 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
 
-##Summer ML3 Groups:
+## Summer ML3 Groups:
 https://docs.google.com/spreadsheets/d/10TMCRlD-0VayFuQqcQep06lIXNMtjI-6JWG2fV53THA/edit#gid=0
 
 ## Pre-Program Survey:
