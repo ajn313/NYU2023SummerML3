@@ -1,6 +1,8 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
+## Upload your final project slides here:
+https://drive.google.com/drive/folders/1q0dfLY_lgrDfTGhVX3Yg-BJf6LEHaY3L?usp=sharing
 
-## Upload your midterm project here:
+## Upload your midterm project slides here:
 https://drive.google.com/drive/folders/1Mebctftz6NaPo2HXqlpmcC-aNAmDqjfN?usp=sharing
 
 ## Summer ML3 Groups:
