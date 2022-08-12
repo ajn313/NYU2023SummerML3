@@ -1,4 +1,7 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
+## Instructor contact info:  
+https://github.com/ajn313/NYU2022SummerML/blob/main/Instructor_Contact_Info.txt  
+
 ## Post-program survey:
 https://docs.google.com/forms/d/e/1FAIpQLSd-SnqP-LE1fPL2hnRez-_heCMz138ue3mCA1tSvtWN_TM8_w/viewform  
 
