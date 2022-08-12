@@ -1,12 +1,15 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
+## Post-program survey:
+https://docs.google.com/forms/d/e/1FAIpQLSd-SnqP-LE1fPL2hnRez-_heCMz138ue3mCA1tSvtWN_TM8_w/viewform  
+
 ## Upload your final project slides here:
-https://drive.google.com/drive/folders/1q0dfLY_lgrDfTGhVX3Yg-BJf6LEHaY3L?usp=sharing
+https://drive.google.com/drive/folders/1q0dfLY_lgrDfTGhVX3Yg-BJf6LEHaY3L?usp=sharing  
 
 ## Upload your midterm project slides here:
-https://drive.google.com/drive/folders/1Mebctftz6NaPo2HXqlpmcC-aNAmDqjfN?usp=sharing
+https://drive.google.com/drive/folders/1Mebctftz6NaPo2HXqlpmcC-aNAmDqjfN?usp=sharing  
 
 ## Summer ML3 Groups:
-https://docs.google.com/spreadsheets/d/10TMCRlD-0VayFuQqcQep06lIXNMtjI-6JWG2fV53THA/edit#gid=0
+https://docs.google.com/spreadsheets/d/10TMCRlD-0VayFuQqcQep06lIXNMtjI-6JWG2fV53THA/edit#gid=0  
 
 ## Pre-Program Survey:
 https://docs.google.com/forms/d/e/1FAIpQLSezGqs9l9h1Cx0BBia5raFvQWgCHRbGemvAaG0JJB-BK4h4rg/viewform  
