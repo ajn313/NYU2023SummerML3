@@ -3,7 +3,9 @@
 https://github.com/ajn313/NYU2022SummerML/blob/main/Instructor_Contact_Info.txt  
 
 ## Further Learning Resources
-[Resource Links](https://github.com/ajn313/NYU2022SummerML/blob/main/Day8/Resource_links.txt)
+[Resource Links](https://github.com/ajn313/NYU2022SummerML/blob/main/Day8/Resource_links.txt)  
+  
+YouTube Content:  
 
 1. YOLO-V2 video ⬇️
 - [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
