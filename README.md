@@ -2,6 +2,16 @@
 ## Instructor contact info:  
 https://github.com/ajn313/NYU2022SummerML/blob/main/Instructor_Contact_Info.txt  
 
+## Learning Resources
+[Resource Links](https://github.com/ajn313/NYU2022SummerML/blob/main/Day8/Resource_links.txt)
+
+1. YOLO-V2 video ⬇️
+- [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
+2. Python porgramming ⬇️
+- [Python programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+3. Linear Algebra ⬇️
+- [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 ## Post-program survey:
 https://docs.google.com/forms/d/e/1FAIpQLSd-SnqP-LE1fPL2hnRez-_heCMz138ue3mCA1tSvtWN_TM8_w/viewform  
 
@@ -72,10 +82,4 @@ https://discord.gg/yRFXpah7w2
  - [Slides](https://github.com/ajn313/NYU2022SummerML/blob/main/Day9/final_project.pdf)
  
  
-## Learning Resources
-1. YOLO-V2 video ⬇️
-- [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
-2. Python porgramming ⬇️
-- [Python programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
-3. Linear Algebra ⬇️
-- [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
