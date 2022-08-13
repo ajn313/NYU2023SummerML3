@@ -77,7 +77,7 @@ https://discord.gg/yRFXpah7w2
  - [trans_learning_lab](https://github.com/ajn313/NYU2022SummerML/blob/main/Day7/lab_transfer_learning_dog_cat.ipynb)
  
 ## Day 8 Further with ML/DL
- - [Slides](https://github.com/ajn313/NYU2022SummerML/blob/main/Day8/Going_Further_with_ML_DL.pdf)
+ - [Slides](https://github.com/ajn313/NYU2022SummerML/blob/main/Day8/ethics_and_going_further.pdf)
  
 
 ## Day 9 Final Presentation
