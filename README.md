@@ -1,5 +1,5 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
-## Attendance Form:
+## Attendance Form (must be completed in the morning and after lunch):
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScakHv7VgnnBYgVUwtupdteFTDUIjHFr4LMGnK3BE-0GbiEAA/viewform?pli=1)
 
 ## Instructor contact info:  
