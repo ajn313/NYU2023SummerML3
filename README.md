@@ -1,7 +1,4 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
-## Attendance Form (must be completed in the morning and after lunch):
-[Link](https://docs.google.com/forms/d/e/1FAIpQLScakHv7VgnnBYgVUwtupdteFTDUIjHFr4LMGnK3BE-0GbiEAA/viewform?pli=1)
-
 ## Instructor contact info:  
 https://github.com/ajn313/NYU2023SummerML1/blob/main/Instructor_Contact_Info.txt  
 
