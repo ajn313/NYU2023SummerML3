@@ -1,4 +1,7 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
+## Upload your Mini-Project Slides Here
+[Google Drive Folder](https://drive.google.com/drive/folders/1s_nZdXZt_JiBQDjc7UA8OHKaHN5rjDIT?usp=sharing)  
+
 ## Instructor contact info:  
 https://github.com/ajn313/NYU2023SummerML1/blob/main/Instructor_Contact_Info.txt  
 
