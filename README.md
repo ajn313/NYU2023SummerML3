@@ -6,16 +6,23 @@
 https://github.com/ajn313/NYU2023SummerML1/blob/main/Instructor_Contact_Info.txt  
 
 ## Further Learning Resources
-[Resource Links](https://github.com/ajn313/NYU2023SummerML1/blob/main/Day8/Resource_links.txt)  
+[Resource Links including in-depth crash courses](https://github.com/ajn313/NYU2023SummerML1/blob/main/Day8/Resource_links.txt)  
   
 YouTube Content:  
 
 1. YOLO-V2 video ⬇️
 - [YOLO v2](https://www.youtube.com/watch?v=VOC3huqHrss)
-2. Python porgramming ⬇️
+2. Python porgramming (start from video 2 since we're using Colab) ⬇️
 - [Python programming](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 3. Linear Algebra ⬇️
 - [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+Khan Academy:
+1. Matrix Multiplication:
+- [Article](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/a/multiplying-matrices)
+2. Partial Derivatives (for Gradient Descent):
+- [Article](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles/a/introduction-to-partial-derivatives)
+
 
 ## Summer ML3 Groups:  
 [Link](https://docs.google.com/spreadsheets/d/1p36GOsSGonDnERMCcFpcnJPr6QCu0mjjpH3cGGnfbcM/edit?usp=sharing)
