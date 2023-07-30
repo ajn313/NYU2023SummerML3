@@ -3,6 +3,9 @@
 ## Discord Server:
 [Invite Link](https://discord.gg/v9qQJSwg)
 
+## Icebreaker dataset: 
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1vU9gheWs-CHfMKmLAcTjrFcDYWCwEzqzuubjHRXsbUU/edit?usp=sharing)
+
 ## Instructor contact info:  
 [Link](https://github.com/ajn313/NYU2023SummerML3/blob/main/Instructor_Contact_Info.txt)
 
@@ -30,9 +33,6 @@ Khan Academy:
 
 ## Pre and Post Program Survey:  
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScy4AdqswdKdqVPb-VHfc4WH1FVXnyEiYY280m1byRaKrnPkg/viewform)
-
-## Icebreaker dataset: 
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1vU9gheWs-CHfMKmLAcTjrFcDYWCwEzqzuubjHRXsbUU/edit?usp=sharing)
 
 ## Day 1 Intro to ML & Matrices
 - [Slides](https://github.com/ajn313/NYU2023SummerML3/blob/main/Day1/day1.pdf)
