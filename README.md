@@ -26,7 +26,7 @@ Khan Academy:
 
 
 ## Summer ML3 Groups:  
-
+[Link](https://docs.google.com/spreadsheets/d/1-5hFvD4NnpmDIUj5FoLVIZaSiTomnXCm1W3di5kJeHQ/edit?usp=sharing)
 
 ## Pre and Post Program Survey:  
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScy4AdqswdKdqVPb-VHfc4WH1FVXnyEiYY280m1byRaKrnPkg/viewform)
