@@ -32,7 +32,7 @@ Khan Academy:
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScy4AdqswdKdqVPb-VHfc4WH1FVXnyEiYY280m1byRaKrnPkg/viewform)
 
 ## Icebreaker dataset: 
-[Spreadsheet Link](https://docs.google.com/spreadsheets/d/12C2ZafhzO3b0Oatxh996v-Wv_6skYzgYpMXpLW_XQ0U/edit?usp=sharing)
+[Spreadsheet Link](https://docs.google.com/spreadsheets/d/1vU9gheWs-CHfMKmLAcTjrFcDYWCwEzqzuubjHRXsbUU/edit?usp=sharing)
 
 ## Day 1 Intro to ML & Matrices
 - [Slides](https://github.com/ajn313/NYU2023SummerML3/blob/main/Day1/day1.pdf)
