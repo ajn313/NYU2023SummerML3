@@ -1,4 +1,7 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
+## Upload midterm project here:
+[Link to Drive Folder](https://drive.google.com/drive/folders/19e7NvnZPRzAW0SgjClp569UbdGf6e_UP?usp=sharing)
+
 
 ## Discord Server:
 [Invite Link](https://discord.gg/v9qQJSwg)
