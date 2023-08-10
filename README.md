@@ -1,5 +1,5 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
-## Cars196 car_ims folder (create a shortcut in your Google Drive MyDrive folder):
+## Cars196 car_ims folder (create a shortcut in your Google Drive MyDrive folder. Also upload car_annos.mat from Day 9 folder to the MyDrive folder):
 https://drive.google.com/drive/folders/1GWAFRT0dwKNiWGie0GeWsow7Lmwm-BAm?usp=sharing
 
 ## Upload midterm project here:
