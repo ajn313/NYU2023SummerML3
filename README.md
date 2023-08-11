@@ -1,8 +1,11 @@
 ![NYU Tandon Logo](Day9/tandon_logo.png)
+## Upload Final Project slides here:
+[Link](https://drive.google.com/drive/folders/1WPR9hk7ueWf_JjBwbjbTH1yQsUdFF5kO?usp=sharing)
+
 ## Cars196 car_ims folder (create a shortcut in your Google Drive MyDrive folder. Also upload cars_annos.mat from Day 9 folder to the MyDrive folder):
 https://drive.google.com/drive/folders/1GWAFRT0dwKNiWGie0GeWsow7Lmwm-BAm?usp=sharing
 
-## Upload midterm project here:
+## Upload midterm project slides here:
 [Link to Drive Folder](https://drive.google.com/drive/folders/19e7NvnZPRzAW0SgjClp569UbdGf6e_UP?usp=sharing)
 
 
